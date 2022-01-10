@@ -44,10 +44,10 @@ export default function Layout({ children, home }) {
               <a>
                 <Image
                   priority
-                  src="https://i.pravatar.cc/400"
+                  src="https://i.pravatar.cc/200"
                   className={utilStyles.borderCircle}
-                  height={108}
-                  width={108}
+                  height={54}
+                  width={54}
                   alt={name}
                 />
               </a>
